@@ -1,0 +1,5 @@
+importFrom("stats", "dmultinom", "formula", "glm", "model.matrix", "model.response", "optim", "rmultinom", "rnorm", "runif", "update")		 
+importFrom("utils", "write.table")
+importFrom("nnet","multinom")
+
+export(LLmn, logit, mergeLevels, multignome, parNames, real2data, runMerges, simMnData, simMultinom, totLLmn.givenGnome, totLLmn.givenParam, totLLmn ) 

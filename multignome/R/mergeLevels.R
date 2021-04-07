@@ -8,7 +8,7 @@ mergeLevels <- function(aFormula,data,mergeFactor,AICtable=FALSE)
   ## ----------------------------------------------------------------------
   ## Author: Amelie & Dave, Date: 12 Dec 2006
 
-  require(nnet)
+  # require(nnet)
   
   ## Run some checks on the formula
   af2 <- as.character(aFormula[2])

@@ -22,7 +22,6 @@
 }
 \usage{
 mergeLevels(aFormula, data, mergeFactor, AICtable = FALSE)
-mergeLevels_2(aFormula, data, mergeFactor, AICtable = FALSE)
 }
 
 \arguments{

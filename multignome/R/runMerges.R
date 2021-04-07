@@ -1,5 +1,5 @@
 runMerges <- function(formula,data,fit){
-library(nnet)
+# library(nnet)
 mergeL <- list()
 AICL <- list()
 mergeNames <- list()
