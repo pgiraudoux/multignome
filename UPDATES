@@ -1,0 +1,22 @@
+Version: 1.0.3.6 Date: 16/05/2011
+
+A re-compilation of 1.0.3.5 just to get the ball rolling.
+serxu.RData converted to serxu.rda
+Incomplete and redundant function "Coefficients.outputGnome" removed.
+Amelie's "runMerges" and "mergeLevels_function" functions included.
+
+_____________________________________________________________________________________________
+Version: 1.0.3.5 Date: 12/12/2006 
+
+1) mergeLevels has been tidied up and is more readable now.
+2) The serxu data has been tidied up.
+3) Serxu example has been added for mergeLevels.
+
+_____________________________________________________________________________________________
+Version: 1.0.3.4 Date: 8/8/2006 
+
+mergeLevels was bugged whenthe number
+of factor levels remaining became as low as three. The specifics
+needed to handle a low number of factor levels is now built into
+mergeLevels.
+

@@ -1,0 +1,11 @@
+Package: multignome
+Type: Package
+Title: multiGnomial Regression
+Version: 1.0.3.7
+Date: 2011-06-03
+Author: David Pleydell & Amelie Vaniscotte
+Maintainer: David Pleydell <d_pleydell@yahoo.com> and Amelie Vaniscotte <amelie.vaniscotte@uit.no>
+Description: A variety of functions for fitting and comparing multinomial models.
+Suggests: nnet
+License: GPL (>= 2)
+URL: http://perso.orange.fr/giraudoux/
