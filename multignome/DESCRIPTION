@@ -2,8 +2,8 @@ Package: multignome
 Version: 2.0
 Date: 2021-04-07
 Title: multiGnomial Regression
-Authors@R: c(person("David", "Pleydell", role = c("aut", "cre"), email = "david.pleydell@cirad.fr"), person("Amelie", "Vaniscotte", role = "ctb", email = "amelie.vaniscotte@lpo.fr"), person("Patrick", "Giraudoux", role = "ctb", email = "patrick.giraudoux@univ-fcomte.fr"))
-Author: David Pleydell [aut, cre], Amelie Vaniscotte [ctb], Patrick Giraudoux [ctb]
+Authors@R: c(person("David", "Pleydell", role = c("aut", "cre"), email = "david.pleydell@cirad.fr"), person("Amelie", "Vaniscotte", role = "aut", email = "amelie.vaniscotte@lpo.fr"), person("Patrick", "Giraudoux", role = "ctb", email = "patrick.giraudoux@univ-fcomte.fr"))
+Author: David Pleydell [aut, cre], Amelie Vaniscotte [aut], Patrick Giraudoux [ctb]
 Maintainer: Patrick Giraudoux <patrick.giraudoux@univ-fcomte.fr>
 Description: A variety of functions for fitting and comparing multinomial models.
 Imports: nnet (>= 7.3-15)

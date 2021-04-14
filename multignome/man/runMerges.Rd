@@ -29,12 +29,8 @@ A list including:
 
 }
 
-\source{Programme STARTT, ANR/ADEME/UFC, 2006-2009, coordinator: renaud.scheifler@univ-fcomte.fr}
 
 \references{Vaniscotte A, Pleydell DR, Quere JP, Wang Q, Li T, Bernard N, Coeurdassier M, Delattre P, Takahashi K, Weidmann JC, Giraudoux P. 2009. Modelling and spatial discrimination of small mammal assemblages: an example from western Sichuan (China). Ecological Modelling, 220 (9-10), 1218-1231.}
-
-\author{Amelie Vaniscotte, amelie.vaniscotte@uit.no}
-
 
 \examples{
 library(nnet)
